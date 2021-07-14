@@ -14,7 +14,7 @@ if you want to clone the project make sure to follow these steps:
 
 **clone the project:**
 
-    $ git clone https://github.com/yasmeenokh/js-401d9-class-41
+    $ git clone git@github.com:yasmeenokh/myFirstNative.git
 
 navigate to the project directory.
 
